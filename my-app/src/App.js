@@ -8,9 +8,14 @@ function App() {
       <h1>Testing for my technical skills folder</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>Technical skills needed for interview</p>
+        <p>Todo list</p>
+        <ul>
+          <li>Create my own blog of experience i get from being interviewed</li>
+          <li>
+            Create small post how to feel when you actually interview person
+          </li>
+        </ul>
         <a
           className="App-link"
           href="https://reactjs.org"
