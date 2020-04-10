@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Testing for my technical skills folder</h1>
+      <h1>TTechinical skills</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Technical skills needed for interview</p>
@@ -25,7 +25,6 @@ function App() {
           Learn React
         </a>
       </header>
-      
     </div>
   );
 }
