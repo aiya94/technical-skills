@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>TTechinical skills</h1>
+      <h1>Techinical skills</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Technical skills needed for interview</p>
@@ -16,14 +16,6 @@ function App() {
             Create small post how to feel when you actually interview person
           </li>
         </ul>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
