@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+// import AnimatedButton from "./Component/AnimatedButton.js";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         by Monday evening, I felt simply exhausted. I realized then that I had
         probably burnt myself out. And I really needed to make time to rest...
       </p>
+      {/* <AnimatedButton /> */}
     </div>
   );
 }
