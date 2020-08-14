@@ -1,7 +1,6 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-// import AnimatedButton from "./Component/AnimatedButton.js";
 
 function App() {
   return (
