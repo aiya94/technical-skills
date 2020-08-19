@@ -15,7 +15,10 @@ function App() {
           <li>
             Create small post how to feel when you actually interview person
           </li>
-          <li>Do something dont be lazy</li>
+          <li>
+            Focus on back end and be a seniour front end, what do you like to do
+            the most
+          </li>
         </ul>
       </header>
     </div>
